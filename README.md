@@ -13,10 +13,13 @@
 - 🔐 Authentication, Security & System Design.
 - 🚀 Building Scalable Full-Stack Applications.
 
-#  🚀 Future Goals
+
+# 🚀 Future Goals
 - 🌐 Building modern and scalable web applications.
 - 🤖 Developing AI-powered websites and smart solutions.
 - 💡 Creating impactful projects that solve real-world problems.
+
+- 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=Rahul Pardhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
