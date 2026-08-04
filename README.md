@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate Full Stack MERN Developer with a strong interest in AI-powered applications.<br>💻 I enjoy building scalable web applications using React, Node.js, Express, and MongoDB.<br>🌱 Constantly learning new technologies and improving my problem-solving skills.<br>🤝 Open to collaboration on innovative projects and open-source contributions.<br>✨ Always turning ideas into real-world solutions through code.
+🚀 Passionate Full Stack  Developer with a strong interest in AI-powered applications.<br>💻 I enjoy building scalable web applications using React, Node.js, Express, and MongoDB.<br>🌱 Constantly learning new technologies and improving my problem-solving skills.<br>🤝 Open to collaboration on innovative projects and open-source contributions.<br>✨ Always turning ideas into real-world solutions through code.
 
 
 ## 🌐 Socials:
