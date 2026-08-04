@@ -10,12 +10,14 @@
 
 
 # 🌱 Currently Learning
+
 - ⚛️ React.js & Node.js, Express.js
 - 🔐 Authentication, Security & System Design.
 - 🚀 Building Scalable Full-Stack Applications.
 
 
 # 🚀 Future Goals
+
 - 🌐 Building modern and scalable web applications.
 - 🤖 Developing AI-powered websites and smart solutions.
 - 💡 Creating impactful projects that solve real-world problems.
