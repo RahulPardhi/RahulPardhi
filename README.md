@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-<!--
+<!--## 👋 About Me
+
+Hi, I'm Rahul Pardhi, a passionate Full Stack Developer from Maharashtra, India.
+
+I specialize in building scalable web applications using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. I enjoy solving real-world problems through technology and have experience developing AI-powered applications such as Kisan Mitra AI.
+
+I'm currently expanding my backend development skills, exploring AI integration, and actively seeking internship and full-time opportunities where I can contribute and grow as a software developer.
 **RahulPardhi/RahulPardhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
