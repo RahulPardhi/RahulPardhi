@@ -11,7 +11,6 @@
 
 # 🌱 Currently Learning
 
-- ⚛️ React.js & Node.js, Express.js
 - 🔐 Authentication, Security & System Design.
 - 🚀 Building Scalable Full-Stack Applications.
 
